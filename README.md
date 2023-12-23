@@ -11,7 +11,8 @@ ___________________________________________________________________
 INSTRUCTIONS: 
 ___________________________________________________________________ 
 To run this program: 
-1.OpenCV must be installed on local machine 
+1.OpenCV must be installed on local machine.
+
 2.Paths to XML files must be given before executing the program. 
 ___________________________________________________________________ 
 
